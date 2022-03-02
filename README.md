@@ -5,8 +5,9 @@
 - 🌱 Estou aprendendo **_ciência de dados_**
 
 ##
-
-[![LinkedId](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillip-alisson-volpi/)
+<a href="https://www.linkedin.com/in/phillip-alisson-volpi/" target="_blank">
+  <img alt="LinkedId" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ##
 
