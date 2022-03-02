@@ -10,10 +10,10 @@
 </a>
 
 ##
-
-![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phillip1Alisson&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phillip1Alisson&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="#">
+  ![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phillip1Alisson&show_icons=true&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phillip1Alisson&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 ##
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
