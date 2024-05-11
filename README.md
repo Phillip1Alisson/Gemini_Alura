@@ -1,8 +1,8 @@
-## Olá! Eu sou Phillip Alisson ✌️
+## Imersão Alura + Google Gemini
 
-- 🔭 Atualmente eu trabalho como **_desenvolvedor full stack_**
-- 🧮 Formado em **_ciência da computação_**
-- 🌱 Estou aprendendo **_ciência de dados_**
+Como resposta ao desafio desta imersão e além de aprender mais como usar esta poderosa ferramenta do Google. Foi feito um programa com objetivo de ser lúdico e poder inspirar pessoas a escrever e usar mais e poderar sua criatividade. 
+
+Este assistente de escrita será seu colaborador no início, fim e meio de suas obras literárias. Não perca mais tempo e marque uma geração com uma história feita por humanos e máquina.
 
 ##
 <a href="https://www.linkedin.com/in/phillip-alisson-volpi/" target="_blank">
